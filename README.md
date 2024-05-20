@@ -1,4 +1,4 @@
-# my-laundry
+# My Laundry
 
 ![WhatsApp Image 2023-07-28 at 5 48 10 PM (1)](https://github.com/Sarahalhazaa/My-Laundry-application/assets/159685825/850de714-02c1-4014-aada-34a8422846f8)
 
